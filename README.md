@@ -1,5 +1,6 @@
 [这里是LGZZK的Github](https://github.com/lgzzk)
 ===
+![](https://cdn.jsdelivr.net/gh/lgzzk1024/lgzzk@main/lbw.gif)
 ---
 # 一级标题
 ## 二级标题
