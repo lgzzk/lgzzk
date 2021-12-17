@@ -1,4 +1,4 @@
-这里是LGZZK的Github
+[这里是LGZZK的Github](https://github.com/lgzzk)
 ===
 ---
 # 一级标题
@@ -10,6 +10,14 @@ cvxb </br>
 xcvbx </br>
 cvbxcvbxcbxcv </br>
 
-LGZZK.prototype.init.prototype = LGZZK.prototype;
+`You` </br>
+
+`LGZZK.prototype.init.prototype = LGZZK.prototype;`
+
+    LGZZK.HTTPS = function () {
+        if (location.protocol === "http:") {
+            location.protocol = "https:";
+        }
+    }
 
 🧔💪🦵🦶👂🦻👃🤏👈👉☝👆👇✌🤞🖖🤘🤙🖐✋👌👍👎✊👊🤛🤜🤚👋🤟✍👏👐🙌🤲🙏🤝
