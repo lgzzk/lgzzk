@@ -1,6 +1,6 @@
-[这里是LGZZK的Github](https://github.com/lgzzk)
+这里是LGZZK的Github
 ===
-![](https://cdn.jsdelivr.net/gh/lgzzk1024/lgzzk@main/lbw.gif)
+![](https://cdn.jsdelivr.net/gh/lgzzk1024/lgzzk@main/dszl.jpg)
 ---
 # 一级标题
 ## 二级标题
@@ -10,8 +10,6 @@
 cvxb </br>
 xcvbx </br>
 cvbxcvbxcbxcv </br>
-
-`You` </br>
 
 `LGZZK.prototype.init.prototype = LGZZK.prototype;`
 
