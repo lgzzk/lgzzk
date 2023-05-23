@@ -1,2 +1,2 @@
 # LGZZK
-![](https://cdnjson.com/images/2023/05/18/14B2764545FB993E02361C18A0E8EAFC.webp)
+![](https://s2.xptou.com/2023/05/23/646c2c68b30ab.jpg)
