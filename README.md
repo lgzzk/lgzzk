@@ -1,2 +1,2 @@
 # LGZZK
-![](https://cloud.lgzzk.site/img/home0.jpg)
+![](https://cdnjson.com/images/2023/05/18/14B2764545FB993E02361C18A0E8EAFC.webp)
